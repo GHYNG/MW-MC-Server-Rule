@@ -1,2 +1,2 @@
 # MW-MC-Server-Rule
-Rules for Milkyway Minecraft Server
+奶路服务器的服规。
